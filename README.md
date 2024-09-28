@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hasnainshehab1924
-- 👀 I’m interested in artificial intelligence robotics. 
+- 👀 I’m interested in artificial intelligence and robotics. 
 - 🌱 I’m currently learning C.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
